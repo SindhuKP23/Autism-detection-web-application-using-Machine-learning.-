@@ -116,3 +116,23 @@ Future Enhancements
 7.Developing mobile applications and clinician-facing dashboards.
 
 
+Future Enhancements
+
+1.Possible future improvements identified for the project include:
+2.Training and evaluating with larger, clinically validated datasets.
+3.Comparing additional machine learning algorithms.
+4.Adding multilingual support and mobile compatibility.
+5.Adding explainable AI features.
+6.Deploying the application securely to the cloud.
+7.Developing mobile applications and clinician-facing dashboards.
+
+
+Responsible Use
+
+Do not use this application to make medical decisions, diagnose yourself or another person, or delay professional care. Anyone with concerns about autism-related traits should consult a qualified healthcare professional.
+
+Project Information
+
+Project title: Autism Detection Web Application Using Machine Learning.
+Project type: MCA academic project.
+
